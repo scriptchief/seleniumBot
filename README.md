@@ -42,6 +42,7 @@ webdriver.Firefox(executable_path = 'burayageckodriveruzantısı/geckodriver.exe
  
  Çalıştırma
  daha sonra komut satırı üzerinden dosyanın bulunduğu uzantıya gidiyoruz 
- -python instaBot.py
+ 
+  - python instaBot.py
  
  yazıyoruz
