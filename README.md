@@ -15,7 +15,8 @@ komut istemi kısmını açarak yazıyoruz
 
 Geckodriver Dosyası indir
 Mozilla firefox kullanacağımız için geckodriver indirmelisiiz.
-https://github.com/mozilla/geckodriver/releases
+
+ - https://github.com/mozilla/geckodriver/releases
 
 
 
@@ -26,7 +27,7 @@ https://github.com/mozilla/geckodriver/releases
  Gecko Deriver Ekleme
 kodlarımızın içerisinde 9. satırda
 
-webdriver.Firefox(executable_path = 'burayageckodriveruzantısı/geckodriver.exe')
+ - webdriver.Firefox(executable_path = 'burayageckodriveruzantısı/geckodriver.exe')
  "burayageckodriveruzantısı" uzantımızı yazıyoruz
  
  
@@ -34,7 +35,7 @@ webdriver.Firefox(executable_path = 'burayageckodriveruzantısı/geckodriver.exe
  
  Kullanıcı Adı Parola
  37. satırda
- insta = InstagramBot('kullanıcıadı','parola') kısmına kullanıcı adı ve parolamızı giriyoruz.
+  - insta = InstagramBot('kullanıcıadı','parola') kısmına kullanıcı adı ve parolamızı giriyoruz.
  
  
  
